@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+yarn.lock
+android/build
+android/.gradle
+android/local.properties
+ios/Pods
+ios/Podfile.lock
+ios/mobile.xcworkspace/*
+.gradle
+.idea
+android/app/build
+test-coverage/
