@@ -6,7 +6,6 @@ android/.gradle
 android/local.properties
 ios/Pods
 ios/Podfile.lock
-ios/mobile.xcworkspace/*
 .gradle
 .idea
 android/app/build
